@@ -2,6 +2,7 @@ const router = require('express').Router()
 const jwt = require('jsonwebtoken')
 
 const defaultAdmin = {
+  adminNm: '관리자', // 관리자 이름
   adminId: 'admin', // 관리자 아이디
   adminPw: '1234' // 관리자 비밀번호
 }
