@@ -10,7 +10,7 @@
     "cookie-parser": "~1.4.3",
     "crypto": "^1.0.1",
     "debug": "~2.6.9",
-    "express": "~4.16.3",
+    "express": "~4.17.3",
     "jsonwebtoken": "^8.1.0",
     "lodash": "^4.17.21",
     "moment": "^2.20.1",
